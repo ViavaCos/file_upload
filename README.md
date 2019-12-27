@@ -1,2 +1,11 @@
 # file_upload
-Incloud file upload and show file upload progress
+Include file upload and show file upload progress
+
+## Option
+
+~~~
+cd server
+npm i
+node app.js  // 或者双击 启动服务器.bat
+~~~
+
